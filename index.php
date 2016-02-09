@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Naslov</title>
+<head>
+    <title>Naslov</title>
 
-	</head>
-
-
-
-	<body>
+</head>
 
 
-		<h1>Prvi</h1>
+<body>
 
 
-	</body>
+<h1>Prvi</h1>
+
+
+</body>
 
 </html>
