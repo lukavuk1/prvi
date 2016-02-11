@@ -9,8 +9,11 @@
 
 <body>
 
+<div id="center">
+<h1>Prvi drugi treći četvrti</h1>
+</div>
+<br><br>
 
-<h1>Prvi</h1>
 <div id='neki_div'>
 <p>
     <?php echo("Pozdrav iz PHP-a ");

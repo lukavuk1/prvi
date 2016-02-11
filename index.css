@@ -1,14 +1,32 @@
 #neki_div {
-    padding: 5px;
-    padding-left:  15px;
-    padding-right: 55px;
+    padding-elft: 5px;
+    padding:5px;
+    padding-right:5px;
     background-color: #5bff7f;
-    border-radius: 0 0 20px 20px;
+    border-radius: 0 20px 20px 20px;
+    text-align: center
+
 }
 
 h1 {
+
     font-family: Georgia, serif;
-    border-bottom: 5px solid #4123cc;
+    border-bottom: 10px solid #4123cc;
+    border-top :10px solid #4123cc;
+    border-radius: 20px 20px 20px 20px;
     color: #DC143C;
     font-size: 60px;
+    display: inline;
+
+
+
 }
+
+
+#center{
+    text-align:center;
+
+
+}
+
+
